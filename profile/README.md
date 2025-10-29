@@ -1,4 +1,6 @@
-![NexttGen Studios](https://raw.githubusercontent.com/NextGen-Collective/DA/main/design/banner/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NextGen-Collective/DA/main/design/banner/banner.png" alt="NextGen Studios Banner" width="100%" />
+</p>
 
 # NextGen Studios
 
