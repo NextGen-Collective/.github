@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/pT69P9Q.png" alt="NextGen Studios Banner" width="100%" />
+  <img src="https://i.imgur.com/pT69P9Q.png" alt="NextGen Studio Banner" width="100%" />
 </p>
 
-# NextGen Studios
+# NextGen Studio
 
-Bienvenue sur **NexttGen Studios**, un studio de développement spécialisé dans la **création de ressources FiveM**, la **location de bases préconfigurées** et la **mise en place d’environnements de serveurs performants**.  
+Bienvenue sur **NexttGen Studio**, un studio de développement spécialisé dans la **création de ressources FiveM**, la **location de bases préconfigurées** et la **mise en place d’environnements de serveurs performants**.  
 Nous mettons notre savoir-faire au service des créateurs et administrateurs de serveurs souhaitant offrir une expérience unique à leur communauté.
 
 ---
@@ -30,7 +30,7 @@ Nous mettons notre savoir-faire au service des créateurs et administrateurs de 
 
 ## Notre vision
 
-> NextGen Studios a pour ambition d’élever le niveau de qualité des serveurs FiveM.  
+> NextGen Studio a pour ambition d’élever le niveau de qualité des serveurs FiveM.  
 > Nous croyons en un écosystème communautaire basé sur la performance, le design et l’innovation.  
 
 ---
@@ -40,7 +40,7 @@ Nous mettons notre savoir-faire au service des créateurs et administrateurs de 
 ### Liens utiles
 - **Site web :** [Bientôt disponible]  
 - **Discord :** [Lien Discord ici](https://discord.gg/ngstudio)  
-- **GitHub :** [github.com/NexttGen-Studios](https://github.com/NextGen-Collective/)
+- **GitHub :** [Organisation](https://github.com/NextGen-Collective/)
 
 ### Nous contacter
 Tu souhaites collaborer, louer une base ou commander une ressource sur mesure ?  
@@ -57,5 +57,5 @@ Tu souhaites collaborer, louer une base ou commander une ressource sur mesure ?
 ---
 
 ## Licence
-Tous les projets publiés par **NexttGen Studios** sont soumis à leur licence respective.  
+Tous les projets publiés par **NextGen Studio** sont soumis à leur licence respective.  
 Merci de respecter les droits de propriété intellectuelle et de ne pas redistribuer sans autorisation.
