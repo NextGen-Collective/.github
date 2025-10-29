@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NextGen-Collective/DA/main/design/banner/banner.png" alt="NextGen Studios Banner" width="100%" />
+  <img src="https://i.imgur.com/pT69P9Q.png" alt="NextGen Studios Banner" width="100%" />
 </p>
 
 # NextGen Studios
