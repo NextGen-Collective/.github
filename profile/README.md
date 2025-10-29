@@ -1,4 +1,4 @@
-![NexttGen Studios](https://your-image-link-here.com/banner.png)
+![NexttGen Studios](https://raw.githubusercontent.com/NextGen-Collective/DA/main/design/banner/banner.png)
 
 # NextGen Studios
 
